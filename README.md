@@ -4,7 +4,7 @@ Projeto em que foi desenvolvida uma Calculadora de Partidas Ranqueadas utilizand
 **INSTRUÇÕES PARA ENTREGA**
 
 
-**O QUE DEVE SER UTILIZADO?**
+## **O QUE DEVE SER UTILIZADO?**
 
 • Variáveis
 
@@ -17,7 +17,7 @@ Projeto em que foi desenvolvida uma Calculadora de Partidas Ranqueadas utilizand
 • Funções
 
 
-**OBJETIVO**
+## **OBJETIVO**
 
 Criar uma função que recebe como parâmetro a quantidade de vitórias e derrotas de um jogador, depois disso é necessário retornar o resultado para uma variável, o saldo de ranqueadas deve ser feito através do cálculo (vitórias - derrotas)
 
@@ -36,7 +36,7 @@ Se vitórias for entre 91 e 100= Lendário
 Se vitórias for maior ou igual a 101 = Imortal
 
 
-**SAÍDA**
+## **SAÍDA**
 
 Ao final, deve-se exibir uma mensagem: 
 
