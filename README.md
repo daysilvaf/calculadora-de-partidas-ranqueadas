@@ -1,6 +1,8 @@
 Projeto em que foi desenvolvida uma Calculadora de Partidas Ranqueadas utilizando o conhecimento em estruturas condicionais e funções para criar um algoritmo decisivo. 
 
+
 INSTRUÇÕES PARA ENTREGA
+
 
 O QUE DEVE SER UTILIZADO?
 
@@ -13,6 +15,7 @@ O QUE DEVE SER UTILIZADO?
 • Estruturas de decisões
 
 • Funções
+
 
 OBJETIVO
 
@@ -31,6 +34,7 @@ Se vitórias for entre 81 e 90 = Diamante
 Se vitórias for entre 91 e 100= Lendário
 
 Se vitórias for maior ou igual a 101 = Imortal
+
 
 SAÍDA
 
